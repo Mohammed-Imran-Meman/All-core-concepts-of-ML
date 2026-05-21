@@ -1,0 +1,423 @@
+question,Description,Meta Tags
+Stripe API Error: Organization API Key can't retrieve balances,We have a multiple stripe accounts. I created an organization inside stripe and added all the accounts under this organization so that I can use one api key and webhook to manage all automations for ...,stripe-payments
+"My kafka keeps crash, freeze or fail. How do i improve the its survivalbility","single server, 32GB, 8 cores, HDD (Lets say i can't use SSD for now)
+Total connect worker : 3
+Total broker : 3
+Schema registry : 1
+Kafbat UI : 1
+resource reserve :
+connect worker : 4GB (min/max) each
+...","apache-kafka, apache-kafka-streams, apache-kafka-connect, confluent-platform"
+How change parent option for customfield opion?,Is there any possibility to change parent option or parentOptionId of allready existing com.atlassian.jira.issue.customfields.option.Option?,"jira, jira-plugin"
+How to use api to get and post data from different programmming languages?,"I am confused,I want to develop some projects where i need to integrate some different programming languages.But I don't know how to set communication between them? Can you advice me that how can i ...","javascript, python, rest, flask"
+Why does os.listdir() return files in an unexpected order and how to enforce numeric ordering? [duplicate],"import os
+
+folder = ""Trainingtest1""
+
+files = os.listdir(folder)
+
+for name in files:
+
+    print(name)
+
+I expected os.listdir() to return files in a predictable order (for example,
+0.txt, 1....",python
+How to fill only 1 icon while using material symbols outlined?,"I'm creating a website for publishing recipes and I'm implementing a like system.
+In order to display if a user already likes a recipe, I use a material symbols 'favorite'  icon but I only use not ...","css, icons"
+Store-and-forward patterns for intermittently connected mobile nodes,"I am designing a system with multiple mobile nodes that produce discrete event data and communicate over a local peer-to-peer network.
+Constraints:
+- Intermittent connectivity
+- Eventual delivery is ...","network-programming, mobile, mqtt, drone.io"
+How to properly process multiple input files from a directory in Python? [closed],"I am working with Python tasks where input data is stored in multiple files
+What common pitfalls should be avoided when working with directories and files?",python
+Excel question looking up values and filling another table with them,I have a question that relates to looking up values and filling up a table with them. Not sure if there is a certain function in Excel that does this so struggling a bit with looking for already ...,"excel, lookup-tables"
+Aide pour un jeu python [closed],"Bonjour,
+Je suis une élève en première et nous devons créer notre premier jeu sur Python. Mon équipe et moi avons déjà créer la carte grâce au logiciel Tiles et nous avons tenté de rajouter les murs ...",python
+Error while invoking the OCI Function using the Cloud Shell,"Iam trying to run a python code (not a boiler plate code) in the function application. I created all the required files such as : func.yaml, Dockerfile, requirements.txt and func.py (main code). The ...","oracle-cloud-infrastructure, oracle-cloud-functions"
+Text is not visible when the button is in disabled state,"I'm encountering a weird behavior on iOS 26. I have a simple Liquid Glass button on a view.
+struct ContentView: View {
+    @State private var isSheetVisible: Bool = false
+    @State private var text: ...",", ios, swiftui, button, text, liquid-glass"
+SDIO not working in 4-bit mode on STM32F411,"I'm working on an STMCUBE project that runs on an STM32F411. It requires relatively fast SD card reads, and 4-bit SDIO does not work as it should.
+There are many reports about problems with 4-bit SDIO,...","sd-card, stm32f4"
+friend function definition in a class can't call another friend function declared in a class [duplicate],"class Thing {
+public:
+    Thing(int i) : i(i) {}
+    friend Thing example() {
+        return 0;
+    }
+    friend Thing stuff() {
+        return example();  // error: 'example' was not declared in this ...",c++
+Spring Boot 4.0.1: OpenTelemetry trying to connect to collector despite excludinq OTLP exporter,"After migrating from Spring Boot 3.5.6 to 4.0.1, I switched from Micrometer tracing tc OpenTelemetry (as Micrometer autoconfiguration is no longer supported). I don't need to export traces to a ...","spring-boot, open-telemetry, micrometer, open-telemetry-collector, open-telemetry-java"
+`terra::vect()` causes segfault when reading geopackage,"I recently had to move my work to a new computer, and now experience some inexplicable issue on a procedure which worked before. I suspect that package versions might have changed a bit, though I kept ...",", r, segmentation-fault, gdal, terra"
+PolarDB cluster endpoint idle timeout causing HikariCP “Connection reset/closed”?,"We’re seeing frequent Connection is closed / Connection reset in production (Spring Boot + HikariCP) when connecting via a PolarDB cluster endpoint (so traffic goes through PolarProxy).
+Most errors ...",polardb
+What exactly does AI do beyond ML models and rule-based logic?,"I am learning Machine Learning and AI from scratch and I think I understand the basics, but I am confused at a system-design level.
+My current understanding is:
+
+ML models learn patterns from data and ...","machine-learning, architecture, artificial-intelligence, system-design"
+"Why does calling this data.table not print the first time, but does the second time? [duplicate]","In section 3 (Syntax) of this excellent Answer by Arun:
+data.table vs dplyr: can one do something well the other can't or does poorly?
+there is a datatable (DT) created, and then an operation ...",", r, data.table"
+React-hook-form validation not using Async custom validation with nextJs and ZOD resolver,"I am using react-hook-form 7.71.0, zod 4.3.5, and nextjs 16.1.0.
+I have the validation routine that works when called directly in code.
+I am using better-auth to check whether a user has been created ...","next.js, react-hook-form, zod, better-auth"
+Deleting my firebase app or entirely project,"I am using blue app in projectA, now I create blue app in projectB so we are using now projectB. I have removed cred of projectA from frontend and backend. Now I want to delete my blue app from ...",", firebase"
+"Hadoop Kerberos client fails on WildFly with ""Parameter 'callbackHandler' may not be null"" (Elytron SASL GSSAPI)","I am running a Hadoop HDFS client inside WildFly and connecting to a Kerberos-secured HDFS cluster.
+Environment:
+- WildFly 34 (bootable JAR)
+- Java 17
+- Hadoop client 3.x
+- Kerberos authentication ...","hdfs, wildfly, kerberos, sasl, elytron"
+Polyfill (scroll-timeline.js) resets CSS,"On my website (simple php, html, css, js) I'm using scroll-based animations through js using animation-timeline, which are not supported on Firefox. Google team released scroll-timeline.js (polyfill), ...","javascript, animation, firefox, timeline, polyfills"
+Nuxt 3 setting base url for route path cause to a permenant redirect 301,"I have a Nuxt 3 project where my base url is /travel and the page for that path is in pages/travel/index.vue
+Also I have another index.vue file in pages folder like this pages/index.vue
+In nuxt.config....","javascript, vue.js, http-redirect, nuxt.js, nuxt3.js"
+"MSVC Linker LNK2011 error, but with symbol present","I made cmake project, a logger dll and another dll, which import logger. They are of the came CMakeLists.txt, so, there are no difference in build options.
+Logger class be like
+class LPLOGGER_EXPORT ...","visual-c++, dll, linker, dllexport, lnk2001"
+Reading wide character strings from stdin,"I did not write programs before, trying to handle wide character strings. Now I want to test my skills with this challenge. To simplify my code a little, I decided to save the sample ""dictionary&...","c, utf-8, stdin, io-redirection"
+Dynamically create R6 methods with a for loop,"I would like to have a R6 Class which generates methods dynamically, the methods names should be letters:
+So obj$a(""sth"") should give me ""sth-a"" and obj$b(""sth"") should ...",", r, r6"
+Issue in UDT custom mapping in C# while calling stored procedure from Oracle DB,"We currently have a migration phase from native monolithic to Azure cloud iPaaS.
+We have this code to execute an Oracle stored procedure:
+    Class.forName(""oracle.jdbc.driver.OracleDriver"");...",", c#, azure-functions, oracle-ebs"
+How to preprocess BIOMASS Level‑1A SAR .h5 files?,"I'm new in ESA MAAP. I need biomass dataset, for this purpose I downloaded .h5 file from https://explorer.maap.eo.esa.int/ website. But I couldn't find the way to preprocess it in python.
+firstly I ...","gdal, qgis, satellite-image"
+PySpark .show() fails with “Python worker exited unexpectedly” on Windows (Python 3.14),"Body
+I am facing a PySpark error on Windows while calling .show() on a DataFrame. The job fails with a Python worker crash.
+Environment
+
+OS: Windows 10
+
+Spark: Apache Spark (PySpark)
+
+IDE: VS Code
+
+...","python, apache-spark, pyspark"
+Firebase Google Sign-In fails after upgrading firebase_auth to ^6.1.4 (iOS – Error 17999 / 403),"I recently upgraded Firebase Auth in my Flutter project:
+firebase_auth: ^6.1.4
+After this upgrade, Google Sign-In OR Apple Sign-In via Firebase Auth stopped working on iOS.
+The same code was working ...",", firebase, google-cloud-firestore, firebase-authentication"
+What are the best resources for learning for a new software dev?,"I am a new software developer and want to learn about developing software and on how to write efficient code, and want to grow, what are the best resources and how should one grow in learning in this ...",python
+Correct way to create mcp client?,"public async Task<McpClient> CreateAsync(Uri baseUri, string apiKey)
+{
+    var transport = new HttpClientTransport(
+            new HttpClientTransportOptions
+            {
+                ...","c#, httpclient, model-context-protocol"
+Hexagonal vs. Onion Architecture: Which one fits better for a composite 'Checkout' Microservice?,"I am building a single Microservice (let's call it Checkout-Service) using Spring Boot and PostgreSQL.
+This specific microservice is responsible for handling the checkout flow, which handles two ...","spring-boot, architecture, microservices"
+Pygame 2D image animations rendering in the wrong way,"I have been making a 2D platform game which has a melee attacking system. I have only one attacking animation frame image which is flipped based on the self.direction flag.
+The main issue is that when ...","python, pygame"
+A problem occurred evaluating project ':react-native-gesture-handler'. > A problem occurred starting process 'command 'node'' error,"It's because Android Studio couldn't find node and should be run from a terminal window.
+If you are using Mac you can run Android Studio using this command in terminal. Note that if Android Studio is ...",", android, reactjs, react-native, android-gradle-plugin"
+Can I access my Apple Music library via API from a generic Python script?,"I'd like to write some native Python code to create some playlists in my Apple Music account.  I've moved away from Amazon Music, I dumped my old playlists from that environment into text files, I can ...","python, apple-musickit, apple-musickit-js"
+BoostConfig.cmake not found in sysroot builded from buildroot,"A small Linux distribution is being built using buildroot. A set of Boost libraries is added to it. The problem is that starting from cmake version 3.30, the configuration mode (find_package(Boost ...","c++, cmake, boost, buildroot"
+Google Play rejection: How to handle required permanent data retention for an Android app without MANAGE_EXTERNAL_STORAGE?,"I am developing an Android attendance and audit application that is distributed through the Google Play Store and targets Android 11+.
+What my app does
+
+The app stores all audit and attendance data ...",", android, flutter, local-storage, google-play-services"
+WS2811 signal amplification [closed],"i have a ws2811 ic in the given configuration, but instead of individual leds, i am using a 12v rgb led strip with common 12V(+), when i program the ic for full brightness it is dim and dosent reach ...",led
+What's wrong with my Syndyne-Synchrone (comet tail) PA output?,"Been investigating the 3I/Atlas (or C/2025 N1) rabbit hole. Of note is its ''anti-tail'' with some arguing it isn't a perspective effect. So, to test this I'm trying to use a ''syndyne-synchrone'' ...",", python, openai-api, astropy, astronomy"
+XGBoost GPU regression fails at predict time with Check failed: dmat->Device() when training with tree_method='hist' and device='cuda',"I’m training an XGBRegressor on GPU and it fits successfully, but predict() fails depending on whether the input at prediction time is a NumPy array vs a pandas DataFrame (or whether I move between ...","python, regression, gpu, xgboost"
+Hammerspoon: map Ctrl+C/V/X/Z to Cmd+C/V/X/Z,"I need to map Ctrl+C/V/X/Z to Cmd+C/V/X/Z in my macOS (Tahoe 26.2), but the following in my init.lua doesn't work:
+hs.hotkey.bind({""ctrl""}, ""c"", function() hs.eventtap.keyStroke({&...",hammerspoon
+Not able to get long lived access token in instagram,"I am getting the short living access token from https://api.instagram.com/oauth/access_token
+After that when i try to get the long lived token I am getting this error
+
+Unsupported request - method ...",instagram-graph-api
+Alert rule is showing that the expression is satisfied. However Alert is not firing,"Alert rule is showing that the expression is satisfied. However Alert is not firing.
+
+Here is the alert rule:
+apiVersion: monitoring.coreos.com/v1
+kind: PrometheusRule
+metadata:
+  name: natgw-alert-...","openshift, prometheus-alertmanager"
+fd was closed unexpectedly,"Environment: Android16 with kernel6.6
+There is an Android service runs a thread like this:
+void *poll_thread(void *data)
+{
+    int fd, ret;
+    struct pollfd fds = {0};
+
+    fd = open(PROCFS_PATH, ...",", android, c, filesystems, embedded-linux, polling"
+keep the server running without using std::getline or boost::asio,"How can I keep the server running without using std::getline or boost::asio ?
+Does cpprest provide any interfaces for this?
+Using boost::asio can achieve this, but does cpprest provide any other ...","c++, boost, cpprest-sdk"
+OnScreen keyboard open for Pos system on focus,"I am using electron react app and for pos system. I am making it open I have used the code but does not close once the keyboard is open
+const exec = require('child_process').exec;
+function ...","reactjs, electron, on-screen-keyboard"
+How to quick open files using Ctrl+P in Git submodules in VS Code?,"In VS Code, when I use Ctrl+P (which is also known as Quick Open) to find files in a Git submodule, it can't find the file, so how can I do this?
+For example, I have this directory structure:
+robot (...","git, visual-studio-code"
+Scope error sideloading Office Add-In on Windows,"I am trying to create an Office Add-In for Word. I have followed the tutorial at Microsoft Tutorial: Create a Word task pane add-in. I am using Windows 11 Professional, and I have a personal Microsoft ...","node.js, office-addins, ms-office-addin"
+How to exclude non-source content from the Project View in CLion?,"In CLion, when I move the CMake build directory to a path outside of the project folder, the project tree becomes cluttered with numerous 'autogen' directories the next time I launch the IDE.
+I want ...",clion
+How to connect to Azure Monitor Log Analytics from VS Code,Currently in Azure Data Studio we have the connection type as Azure Monitor Logs to run KQL.There isn’t an official “Azure Monitor Logs” extension in Visual Studio Code exactly like the one in Azure ...,", vscode-extensions, kql, azure-monitor"
+Self-Contained Alt Text Generation For Use In Other Software,"I am currently working on a tool that takes in every webpage of a site, adds alt text to images missing it, and outputs the webpage as a PDF for archival purposes.
+For the generation of alt text, is ...","machine-learning, computer-vision"
+Today's Foreign Exchange Rate Function/Formula in Microsoft Excel Spreadsheet application,"Is there a today's foreign exchange rate function or formula in Microsoft Excel Spreadsheet?
+If not could it be useful to add in Office 365 Microsoft Suite? The function should take two currencies as ...","excel, excel-formula"
+Best practice for querying and displaying large datasets (1M+ rows) with multiple joins and LIKE filters [closed],"I have a database table with more than 1 million rows. This table is joined with around 10 other tables, and the data needs to be filtered using LIKE queries based on user input.
+This query will be ...","mysql, node.js, sql-server, postgresql, query-optimization"
+"I am getting ""generate_placeholder_thoughts"" reasoning in thoughts reasoning when include_thoughts=True","I am using ChatGoogleGenerativeAI from langchain_google_genai and declared my wrapper instance as below.
+agent_llm = ChatGoogleGenerativeAI(
+    model=""gemini-3-flash-preview"",
+    ...","langchain, langgraph, langsmith"
+Xcode publishing issues. Watch app not included on xcode26 and server error when publishing from xcode 16,"I am working on an ios app with a companion watchos app. The watchos app was made in 2018, it uses watchkit and has a watchkit app target and a watchkit app extension target.
+When I started working on ...",", ios, swift, xcode, app-store-connect"
+How to add a string literal annotation to items?,"I am experimenting with the new annotation freshly added in C++26, specifically looking at the examples provided in the proposal paper.
+The paper contains the following example using a hypothetical ...","c++, reflection, c++26"
+How can I automate text-to-vector embedding within PolarDB MySQL to PolarSearch synchronization flow?,"I have some text data in PolarDB MySQL and want to analyze these texts. Currently, the text data is synchronized to PolarSearch for further analysis (e.g. full-text search) via AutoETL, a feature the ...",polardb
+Can see index.php but not other webpages in xampp,"A few days ago, I installed XAMPP on the F:\ drive, but it will only allow me to see index.php, but not the other web pages. I followed many internet articles that told me:
+LoadModule rewrite_module ...",xampp
+How to make a generalized template class?,"I've done some amateur object-oriented programming in C++ and I have a quick question of what is possible when creating your own class.
+I've attempted to make a generalized 3-tuple template class that ...","c++, class, templates"
+Recommendation of Dynamic Animated SVGs for GitHub Landing Repo Usage (Not common static SVGs),"Question
+I am creating a GitHub profile landing repository (the special repository where a README is rendered automatically on the profile page).
+Here are some examples of profile landing repositories ...","github, svg, vercel, svg-animate, github-flavored-markdown"
+nvim restoring last cursor position,"In macos, I have the following in my ~/.config/nvim/init.lua:
+vim.api.nvim_create_autocmd(""BufReadPost"", {
+  callback = function()
+    local mark = vim.api.nvim_buf_get_mark(0, '""')
+    ...","lua, neovim"
+I am having a strange javascript result with array.includes() not finding a match [closed],"In the DOMContentLoaded event, I load a global variable with the entries in a datalist:
+    let dsoptions = document.querySelectorAll('datalist#fieldN_list option');
+    gList = Array.from(dsoptions)....","javascript, google-chrome"
+"Google Apps script calling Paypal Draft Invoice Creation - using their JSON, it still fails. Any idea why?","I am using Google Apps Script to try and generate a Paypal draft invoice in their sandbox.  I've got my access token, and it's valid (Token expires in 32400 seconds"".  For the life of me, I ...","google-apps-script, paypal"
+Is there a way to move a Task Row via code,"I want to know if it is possible to move a task's row position with the MS Project API without copy/paste.
+So, for example, let's say I want to move the task on row 4 to row 10 with some custom code. ...","vba, ms-project"
+Finding unique 1D arrays and corresponding 2D index pairs in 3D array (with numpy),"I have a 3D numerical array X, of shape=(N,N,6); and a 2D logical array mask, of shape=(N,N). I would like to find all unique 1D subarrays (length=6, along  axis=2) of X, searching over the first two ...","python, arrays, numpy, multidimensional-array, slice"
+Ceph erasure coding and fault tolerance in small cluster,"I'm putting together a ceph cluster and I am somewhat stuck on choosing which EC values make the most sense for my pool. I only have 4 nodes, each with 4 disks and it will mostly be used for S3 (RADOS)...","ceph, fault-tolerance, erasure-code, crush"
+Generate Lombok documentation using IntelliJ,"I'm learning Java and I use IntelliJ as IDE. In the settings, I added the Lombok plugin.
+
+and in Build, Execution, Deployment | Compiler | Annotation Processors
+
+Enable annotation processing box is ...","java, javadoc, lombok"
+Programming Language Recommendation for Saas,"What is the Lowest deployment cost programming language for Saas (For Business Software POS, ERP, Inventory Management) Web Applications. With Data Handlings and Reports generations. Database is ...","database, postgresql, saas, point-of-sale"
+How to install software from Google Chromium/Android repos?,"I once knew how to do this, but I am no longer able to. I have successfully built minijail0 from https://google.com/google/minijail.git, but running sudo make install results in this error message:
+cd ...","google-chrome, google-chrome-os"
+Tool to autocomplete `python -m` module calls for the Fish shell,Directly inspired from Command-line autocompletion for python -m module. Is there any extension to Fish shell that allows TAB-like autocomplete for python -m calls? In my case I only wish for it to ...,"python, terminal, autocomplete, fish"
+Do Github rules allow one to connect via SSH to their continuous integration machines?,I was wondering if Github rules allow me to connect via a reverse SSH to their continuos integration virtual machines and obtain a shell prompt in order to for example debug a failing release ...,", debugging, ssh, github-actions"
+Testing for multiple if statements [duplicate],"I have a bulky set of if statements, and what I want is that if none of them trigger, only then do I want the ""else"" to work. But each if needs to work independently, and multiple of them ...","c#, if-statement"
+ThreadedDepthCacheManager ignoring the limit I put at the order book,"I'm using ThreadedDepthCacheManager in python-binance to get the orders from the book, and at the start_depth_cache method I'm setting the limit to only 2 depths in the order book. Still, for each ...","python, trading, python-binance"
+"My organisation is pondering moving to snowflake, what are some things one should be considering to ensure it's a right fit?","One thing that has been asked is to get gage on how much data we pull daily, weekly and the size of it.
+Just a heads up(we use SQL server, ssis, python for webservice and Power BI).
+Thanks","database, snowflake-cloud-data-platform, migration, etl, analytics"
+Python casting string without knowing its type [duplicate],"If I have a value that was previously statically turned into a string constant and stored (so it could be of any type, e.g. ""5"", ""1.34"", ""hello"", ""[1, 4, 5]""), ...","python, casting"
+How to connect to Kerio programatically? [closed],"I'm trying to interact with Kerio mail server in an attempt to programatically add events to a user's calendar.  However, I'm not even able to connect.  I tried the JSON API first, then the PHP API, ...",", php, json"
+Spring 7 RetryListener,"Is it possible with Spring 7 org.springframework.core.retry.RetryListener log every failure which will be retried including actual retry count? It seems that
+
+actual retry count is present in ...","spring, retrytemplate"
+Visio VBA Delete Container When Shape is Deleted,"Background
+I have a custom Visio shape, at its core it is simply two rectangles with text grouped together in a group/container.
+This group represents a property, with the left rectangle containing ...","vba, shapes, visio"
+"Next.js / React app is deployed to AWS Amplify, but the login is not workable [closed]","I have a next.js / React app. I can run it locally and log in with google locally. When I deploy to aws amplify, the app runs fine. However, when I try to log in, it always fails. The login seems to ...",", reactjs, next.js, aws-amplify"
+Can I prevent VSCode DevContainer environment from loading Copilot?,"Despite having only a few extensions specified in devcontainer config
+  ""customizations"": {
+    ""vscode"": {
+      ""extensions"": [
+        ""elmtooling.elm-ls-vscode&...","visual-studio-code, github-copilot, microsoft-copilot, vscode-copilot"
+BitWise Operator and Frequency Counting [closed],"class Solution {
+    public char findTheDifference(String s, String t) {
+        char [] b = s.toCharArray();
+        char [] c = t.toCharArray();
+        char news = '\0';
+
+        for(char z : c){
+  ...",java
+"GCC miscompiles long chains of overloaded `operator,`","I encountered a very odd issue in a larger project and after a lot of debugging reduced it to this minimal example. My idea is that a long comma-expression gets truncated after hitting some threshold.
+...","c++, gcc"
+Architecture pattern for a microservice that reads directly from other services' databases for high-performance cross-validation? [closed],I am designing a Centralized Watcher (or Auditor) microservice within a distributed system. This service's primary responsibility is to cross-reference and validate data across multiple domains to ...,"postgresql, database-design, architecture, microservices, foreign-data-wrapper"
+Android Custom UI Component with Generic Type,"I have created a custom spinner in Java for Android and my class uses generics as such
+public class TLPSpinner<T> {
+I have an event that fires when a object is selected and if instantiate the ...",", java, android, xml, user-interface, generics"
+"Git ""objects/[0-9a-f][0-9a-f]/"" is not using the first two characters of the sha1 object name [duplicate]","According to the official documentation: https://git-scm.com/docs/gitrepository-layout
+
+objects/[0-9a-f][0-9a-f] : A newly created object is stored in its own file. The objects are splayed over 256 ...",git
+Use host username in container instead of root [closed],"Trying to use software in a container that is license to a username, so the username in the container needs to match the host that launched the container. I've attempted to set the ""USER"" ...",podman
+"Using module's functions within `use` in Sass/SCSS (when customising Bulma, but also in general)","I'm trying to customise Bulma with Sass, importing with the @use rule. Bulma includes functions which are useful for modifying colours, e.g. ""findColorInvert"", which I want to be able to use ...","sass, bulma"
+iOS Shortcuts: passing too much data to another Shortcut,"I’m trying to:
+
+Get the next event in either of two calendars,
+
+Subtract one hour from the start time in (1),
+
+and then, pass only the resulting time in (2) to another Shortcut
+You can see in the ...","shortcut, sirishortcuts, ios-shortcut"
+AccountController adding login register [closed],"I'm writing admin panel account controller so I write like this  what can add for login and register?
+[Area(""Admin"")]
+    public class AccountController : Controller
+    {
+        private ...",c#
+l have PositionVM in the ViewModels folder; how can I add more to ViewModels - any tips?,"This is the ViewModels folder, and I have this code there. How can I add more to it any tips?
+public class CreatePositionVM
+{
+    public string Name { get; set; }
+}",c#
+d3 graph - leave space between link and node,"I am using d3 7.9.0 graph. I'd like to add some space between the link and the node.
+I don't want to control the distance between the nodes but as per the image attached I'd like to have more space ...",d3.js
+TCA foreign_table with pid 0,"in TCA with selectMultipleSideBySide need access to data from a foreign table with pid = 0. The following tca does not work:
+'config' => [
+    'type' => 'select',
+    'renderType' => '...",typo3
+Is there a way to get selenium to connect to an edge browser for old IE sites?,I have my old python script for some work intranet sites we still have not upgraded that run in IE compatibility within edge. I changed it a bit to update since IE is no longer available after os ...,"python, selenium-webdriver, microsoft-edge"
+Does SAS Viya Git client support submodules,I am attempting to port a number of SAS 9.4 ETL to SAS Viya. Many of these scripts and processes include a reference to a shared library of code. I would like to include this shared library into my ...,"git, sas"
+Leslie Matrix Simulation Coding,"I'm trying to run some leslie matrix simulations for a project I'm currently working on. Basically, I'm trying to investigate the effects of different harvesting regimes on a population by creating a ...",", r, matrix"
+How to send email using nodemailer with hostinger professional email and their managed nodeJS hosting [closed],"My createTransport looks like this right now:
+const transporter = nodemailer.createTransport({
+  host: SMTP_SERVER_HOST, //smtp.hostinger.com
+  port: Number(SMTP_SERVER_PORT), //465
+  secure: true, 
+  ...","javascript, node.js, nodemailer, hostinger"
+Unable to assign values to pointer without scanf(),I'm creating an parser algorithm  that takes in a piece of language and decodes it into a number format. I want to return an array since this has to be done in a function. However 'C' makes it to ...,"c, parsing, char, c-strings, function-definition"
+Magento 2 checkout does not enable map in Cypress blur/enter events,"I am automating Magento 2 checkout with Cypress and am experiencing a synchronization issue with Knockout related to a Google Maps map/autocomplete in the address form (shipping).
+In Magento 2 ...","automation, cypress"
+Deduplicating URLs in Nutch and Solr,"I am trying to make sure I don't get duplicate URLs in the Solr index, but I always end up with something like https://www.example.com/xxx and https://www.example.com/XXX.  I understand that ...","solr, nutch"
+Validating an RDF graph with SHACL with e.g. Apache Jena / Fuseki,"I am trying to understand how the flow should be of inserting and validating a knowledge graph using SHACL.
+I am building a knowledge graph based on traceability using the provenance ontology.
+When a ...","rdf, jena, fuseki, shacl"
+Opencl Dot product kernel fails on specific data,"I have a opencl kernel that performs a dot product multiplication. When I run it on a random numpy array created by rng.random, it gives a percent error compared to numpy of -0.011454765, but when I ...","python, math, opencl, pyopencl, opencl-c"
+Dymos: Change initial conditions while using a restart file,"When using dm.run_problem() with the restart option, the simulation data overwrites the values that are prescribed by means of phase.set_state_val() (etc.) in the input file. If you wanted to use an ...",openmdao
+"I have Errors when waking from a suspension in Linux Mint, does anyone know how to fix them? I'm putting the error messages below: [closed]","[ 7380.288250] ACPI: EC: interrupt unblocked
+[ 7381.413075] i915 0000:00:02.0: [drm] GT0: GuC firmware i915/adlp_guc_70.bin version 70.36.0
+[ 7381.413089] i915 0000:00:02.0: [drm] GT0: HuC firmware ...","linux, linux-kernel, linux-mint"
+InstallReferrerClient DeepLink Bug,I noticed a strange issue when testing my custom DeepLinks tied to InstallReferrerClient payload data. The bug only happens when users are logged into Google Play with enterprise ([email protected]) ...,", android, google-play, deep-linking, install-referrer"
+How do I add a legend to for pixmapped image,I have a 2D array of integer data that I am plotting with matplotlib's axes interface (not the pyplot interface). When I use ax.imshow I get the plot I am looking for. The built in colorizer handles ...,matplotlib
+Setting up a drizzle with supabase & postgresql RLS [closed],"I am using drizzle v1 beta with supabase. I've enabled RLS policies on some tables, and upon testing, I've discovered that the rules are not applied. That's because the postgres function auth.uid() ...","typescript, postgresql, supabase, row-level-security, drizzle"
+Create new variable for if X at t(i) is different at t(i+1),"I have a panel dataset for whether an entity is certified or not in a given year. I want to know if the status of the entity has changed from the previous year, and if so, if it gained or lost the ...",", r, time-series, lag"
+How to perform a task after autofilling credentials?,"I set the login button to be enabled only if the email and password are filled in and the email is in the correct format.
+function updateLoginButtonState() {
+
+        const email = usernameInput.value....","javascript, password-autofill"
+Is there a way to automatically back up a PostgreSQL log table when it is updated or deleted?,"I have a log table in PostgreSQL (people_log) that tracks changes in my main tables.
+The problem is, the log table can grow very large, so I cannot keep all the data in the table indefinitely.
+I want ...","postgresql, logging, triggers, backup, plpgsql"
+How do I get my program to generate and print intermediary temporary arrays in a divide-and-conquer binary search?,I'm a beginner coder taking an introductory comp science course and I'm trying to figure out how to get a divide-and-conquer binary search to print the arrays between the main array and the final ...,"python, binary-search, divide-and-conquer"
+"Monorepo + AI tools (Copilot, Cursor): does having full codebase context provide real advantages in practice?","I work in a frontend environment with multiple applications and shared libraries.
+Historically, these projects have lived in separate repositories (multi-repo), and shared functionality was either ...","typescript, architecture, frontend, nx-monorepo, vscode-copilot"
+eval(substitute()) within a R6 object,"I need to evaluate an expression within an R6 object. Let's say:
+A <- R6::R6Class('A',
+                 public=list(
+                   f1 = 1
+                 ))
+
+test <- A$new()
+
+eval(...",", r, eval, substitution, r6"
+Correct syntax for function template with an even number of `int` arguments?,"When rewriting a C varargs function as a function template, I am struggling to find the right syntax.  xfun() should be a function with a double parameter followed by an even number of ints. Something ...","c++, c++11, templates, variadic-templates"
+Conflict between namespace and non-namespace function definitions [closed],"In a header of an external library I'm using there is a definition of the lerp function as follows:
+SUTIL_INLINE SUTIL_HOSTDEVICE float lerp(const float a, const float b, const float t)
+{
+  return a + ...",c++
+Semantic validation of XML,"I'm trying to validate XML files beyond my understanding of what XSD offers. Here's my concrete use-case:
+The MusicXML format has an XSD spec that can be used to validate the syntax of documents. ...","xml, xsd-validation, musicxml"
+How to parse tab delimited header based on multiple header lines with spaces in R,"I am working with older weather data files with a 3-line header.  The first line identifies the station, the second provides column names, and the third gives the column units.  The problem is that ...",", r, regex, text, tabs"
+AGP 9.0 - expect and actual functions in new Android module,"Android Gradle Plugin 9.0 was introduced so I've migrated my project. But everything that was implemented as actual fun/class/... had to stay in common module which looks quite incorrect to me.
+Let's ...","gradle, android-gradle-plugin, kotlin-multiplatform"
+ESP32-C3 mini + wifi + ArduinoJson + GxEPD2 - weird data output,I am trying to build my own ESL to display item data on it. Got the Esp32-c3 working perfectly with a Weact 2.9 inch epaper display BUT I want to get the data out of a mssql database (data is being ...,"c++, json, arduino, esp32"
+Segmentation fault when implementing a strcpy-like function in C [duplicate],"I am trying to implement a function in C similar to strcpy, but the program produces a segmentation fault when executed.
+The code below attempts to copy a source string into a destination string, but ...","c, string, segmentation-fault, strcpy"
+iOS and WatchOS app sharing the same dynamic framework,"I have not been able to share a single dynamic framework between my iOS and WatchOS 10 apps. This single framework supports both platforms and builds for each, but when depending on it in the watch ...","swift, xcode, watchos"
+Expo go: How to write a base64 string to a file using the new expo-file-system library(version 19),"I was previously able to do this in legacy expo-file-system:
+const rawBase64 = base64.replace(/^data:image\/\w+;base64,/, '');
+await FileSystem.writeAsStringAsync(filePath, rawBase64, { encoding: ...","react-native, image, expo, base64, expo-file-system"
+Why py_mcws.WsClient don't run with my asyncio event_loop?,"I want to create a window program that connects a Minecraft world to a local websocket. It works fine in the Thonny IDE and I can run everything smoothly, but when I try to start it via Bash, it ...","multithreading, tkinter, websocket, python-asyncio, minecraft"
+"torch.matmul(S, v) where S is symmetric and v is a vector: how to speed up computations?","Let S be a nxn symmetric matrix and v a n 1-dimensional vector.
+We need to compute inside a pytorch loss function the vector (S x v) in an efficient manner.
+Do you know if there is a way to keep ...","python, pytorch, matrix-multiplication"
+Different outputs for the same line in C when another line is commented,"In Clion, I was trying out format specifiers when I observed an interesting issue:
+When I run the following code:
+#include <stdio.h>
+
+int main() {
+
+    printf(""%f\n"",5.0/4);
+    printf(...","c, floating-point, printf, undefined-behavior, format-specifiers"
+iPad login asterisk interpretation problem [closed],"What I Know
+
+A user is trying to login to our learning management system from his iPad
+
+He said that with iPads, when you enter a password (*****) that the iPad interprets it as asterisks and not the ...","ipad, passwords, asterisk"
+echo print double quotes in text file even if the command does not contain that [closed],"This is my code sample:
+ProcessBuilder pb = new ProcessBuilder(
+        ""cmd.exe"",
+        ""/c"",
+        ""chcp 65001 > nul && "" + this.cmd
+);
+
+pb....","java, cmd"
+Using Lifespan FastAPI in Vertex AI Endpoint got 503,I'm trying to serve my custom container model in Vertex AI Endpoint. Im using Fast API and I need to load 5 models in my lifespan before executing the request. When I try to request my Endpoint it got ...,", google-cloud-platform, fastapi, google-cloud-endpoints, google-cloud-vertex-ai"
+Autowiring NullChannel for Spring Integration 7 / Spring Boot 4,"I am attempting to upgrade from Spring Boot 3.5 to 4.0, which includes an upgrade to spring integration 7, but am having trouble autowiring my nullChannel.
+In the previous version I have often ...","java, spring-boot, spring-integration, spring-integration-dsl"
+Why is libvirtd.service ignoring the configuration value of host_uuid_source on reboot,"I have a hypervisor, RHEL9, qemu 9+, virsh 10.10.0.
+When I run the following:
+virsh capabilities | grep uuid
+It returns a default value ""0000000-0000-0000-0000-efbeaddfbe"".
+/etc/libvirt/...","qemu, libvirt"
+Passing a matrix from python to R through rpy2 [closed],I am trying to find out how to pass a matrix from python into R through rpy2 for further processing into the R script and then get the resulting value back to python. Everywhere I 've looked I see how ...,", python, r, list, type-conversion, rpy2"
+Different output from rmarkdown to docx depending on how the style is applied,"I'm rendering a docx document using officedown and officer packages. Setting the style to a paragraph can be done in two ways:
+
+using `:::{custom-style=""List Bullet""}
+
+creating paragraphs ...",", r, r-markdown, officer, officedown"
+"Add saving directly to SharePoint online from Adobe, need admin approval","One of our users is trying to define SharePoint online as the storage for adobe acrobat, but when the user tried to do so, they get this message that the user need admin approval:-
+
+now using global ...",", azure, sharepoint, office365, adobe, office365-apps"
+List2 error occuring while ploting a histogram [duplicate],"Sorry for the maybe dumb question but I am very new to R studio aaaaand I don't undertsand the following error message :
+I am trying to plot a very simple histogram, here is my code. I have loaded a ...",", r, list, ggplot2, histogram"
+Global AsyncClient Reuse Best Practices,"I'm wondering what the best practice for a global httpx GlobalClient is in Python 3.14. generally it's best to have a single global event loop, but what if I need more parallelism or to not block with ...","python, celery, python-asyncio, httpx"
+How to Retrieve the width of a QML object with layout.fillWidth: true in nested Layouts?,"Qt 6.10.1
+The last version of qml module
+RowLayout{
+
+    anchors.fill:parent
+
+    ColumLayout{
+
+        anchors.fill:parent
+
+        Rectangle{
+
+            Layout.fillWidth: true
+
+            Layout....","qt, layout, qml"
+Is it possible to build bgfx with cmake? [closed],"I’m trying to build bgfx using CMake, but I’m not sure whether this is officially supported or what the correct workflow is.
+From what I understand, bgfx primarily uses GENie to generate project files,...","c++, windows, cmake, mingw, bgfx"
+Backend for Frontend (BFF) - Spring Boot vs Node JS [closed],We are migrating a Java Swing-based enterprise desktop application to a web application. The frontend will be built using ReactJS and the existing application backend (Java) will continue to run on a ...,"java, node.js, spring, spring-boot, security"
+Pydantic V1 functionality isn't compatible with Python 3.14,"I have an error when importing replicate lib in my Python 3.14 project
+D:\Api\proj\.venv\Lib\site-packages\replicate\resource.py:5: UserWarning: Core Pydantic V1 functionality isn't compatible with ...","python, pydantic, replicate, python-3.14"
+Rust enum conversion infinite loop overflow,"Why is this causing an infinite loop on EnumFormat::A.into()?
+#[repr(i64)]
+pub enum EnumFormat {
+    A = 0,
+    B = 1,
+}
+
+impl From<i64> for EnumFormat {
+    fn from(value: i64) -> Self {
+    ...","rust, enums, type-conversion"
+Windows Kernel Driver Persistent Flag Creation,"Greetings all you Win32 kernel devs,
+I would like to receive some recommendations as to how my driver can simply keep a ""flag"" that I can set/retrieve persistent after my driver is unloaded. ...","windows, driver, persistence, flags"
+How to get a string data from a PHP file which uses json_encode() while using fetch() in TypeScript? [closed],"I'm trying to get a simple string data from my PHP file outputting a simple version number I scrape from my github repo to populate a minor place in my website but so far, I'm unable to get the ...",", php, json, typescript, string, fetch-api"
+Database.EnsureCreated(); fails,"I have an app developed in .NET Maui 10. It was previously in .NET 9 and worked correctly.
+ public App( )
+ { 
+     InitializeComponent();
+     MauiExceptions.UnhandledException += (sender, args) =>
+...","maui, system.data.sqlite, asp.net-core-10.0"
+Career Advice: Which programming language should an Android developer learn for the AI-driven era?,"I am an Android developer with 1.2 years of experience, primarily working with Java.
+With the current tech economy shifting heavily toward AI-integrated applications, I feel that traditional mobile ...",", java, android, xml, artificial-intelligence, feature-selection"
+GCP Cloud NAT dropping ingress packets after some period (MongoDB / Redis timeouts): why? [closed],I’m troubleshooting an issue with GCP Cloud NAT that caused transient but severe production outages (MongoDB and Redis timeouts). I’d like to understand whether this is expected NAT behavior or ...,", google-cloud-platform, nat, google-cloud-networking"
+How to secure inbound and outbound from my azure web app to the internet without the use of firewall [closed],"Hi all sorry if this is more detail than needed. This is a personal project and I’m trying to be precise so I don’t miss anything important.
+I have an Azure PaaS-heavy architecture for document ...",", azure, azure-security, azure-nsg"
+"JMeter in GitLab CI (Docker) intermittently fails with ""java.net.UnknownHostException""","I’m running JMeter tests from a GitLab CI pipeline where JMeter is executed inside a Docker container (not installed on the runner host).
+Setup
+
+GitLab Runner: Docker executor
+JMeter Docker image: .../...","performance, jmeter, performance-testing, ttl, unknown-host"
+Why does this code save registers before interrupts which don't destroy these registers?,"I have been reading MS-DOS 1.00 source code. Link: https://www.pagetable.com/?p=165
+One of the times where the developer decided to save a register, that is preserved by BIOS?
+print           xor     ...","assembly, x86-16, dos, bios, real-mode"
+How to get touch behavior in .NET MAUI get to work with communitytoolkit on a label or stacklayout,I use VS2026 with .NET 10 and the CommunityToolkit.Maui 13 in an very simple MAUI project and can't get the touch to work. The command Property is changed but the command is never called. This is my ...,"maui, maui-community-toolkit, .net-10.0"
